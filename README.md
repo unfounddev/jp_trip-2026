@@ -1,7 +1,4 @@
-# Japan Trip 2026 — Latest Guide
+# Japan Trip 2026 — Mobile
+เวอร์ชันล่าสุดใส่มื้ออาหารไว้ในกำหนดการรายวัน พร้อมตารางสรุปมื้ออาหาร และ responsive layout สำหรับมือถือ
 
-Latest itinerary: Day 1 Umeda shopping; Day 2 Uji + Nara; Day 3 Kizu + Katsuo-ji + Osaka Castle; Day 4 Kyoto/Gion/Kamo; Day 5–6 Kyoto; Day 7 Kyoto → Osaka → KIX; Day 8 Rinku → KIX.
-
-Upload index.html, style.css and app.js to the root of your GitHub repository. GitHub Settings → Pages → Deploy from branch → main / root.
-
-Before travel, recheck live train/bus times, platforms, fares and temporary closures.
+อัปโหลด `index.html`, `style.css`, `app.js`, `README.md` ทับไฟล์เดิมใน GitHub repo แล้ว GitHub Pages จะอัปเดตเว็บเดิม
