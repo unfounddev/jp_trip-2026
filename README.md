@@ -1,17 +1,7 @@
-# Japan Couple Trip 2026
+# Japan Trip 2026 — Latest Guide
 
-Static mobile-first travel guide for a 2-person Japan trip, 7–14 Nov 2026.
+Latest itinerary: Day 1 Umeda shopping; Day 2 Uji + Nara; Day 3 Kizu + Katsuo-ji + Osaka Castle; Day 4 Kyoto/Gion/Kamo; Day 5–6 Kyoto; Day 7 Kyoto → Osaka → KIX; Day 8 Rinku → KIX.
 
-## Deploy on GitHub Pages
-1. Create a new GitHub repository.
-2. Upload `index.html`, `style.css`, and `app.js` to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select `main` and `/ (root)`, then Save.
-6. GitHub will show the public Pages URL after deployment.
+Upload index.html, style.css and app.js to the root of your GitHub repository. GitHub Settings → Pages → Deploy from branch → main / root.
 
-## Local preview
-Double-click `index.html`, or run a simple local web server.
-
-## Important
-Transport timetables, shop hours, fares, closures, and airline terminal details can change. Recheck official sources shortly before each travel day.
+Before travel, recheck live train/bus times, platforms, fares and temporary closures.
